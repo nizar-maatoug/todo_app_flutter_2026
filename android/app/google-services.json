@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "844186732686",
+    "firebase_url": "https://gestion-grandeurs-2026-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "gestion-grandeurs-2026",
+    "storage_bucket": "gestion-grandeurs-2026.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:844186732686:android:096d527a5e9d2b4128a1df",
+        "android_client_info": {
+          "package_name": "com.example.todo_app_2026"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAIKkvMTsyriEgCg5Ns3wdCdPKJ_hzHMjE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
